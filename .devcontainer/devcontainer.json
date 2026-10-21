@@ -27,7 +27,7 @@
         "[python]": {
           "editor.defaultFormatter": "ms-python.black-formatter"
         },
-        "editor.fontSize": 18,
+        "editor.fontSize": 14,
         "extensions.ignoreRecommendations": true,
         "unwantedRecommendations": ["ms-python.vscode-python-envs"],
         "terminal.integrated.defaultProfile.windows": "Git Bash",
@@ -40,7 +40,7 @@
         "workbench.colorTheme": "Default Dark+",
         "workbench.iconTheme": "vscode-icons",
         "github.copilot.enable": {
-          "*": true,
+          "*": false,
           "python": false,
           "html": false,
           "css": false,
